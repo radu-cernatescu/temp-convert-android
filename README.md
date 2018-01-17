@@ -1,1 +1,1 @@
-# temp-convert-android
+This application is a temperature converter, which can convert from Celsius to Farenheit and vice versa. This is an .apk file and can be installed on any Android that has Unknown Sources ticked in Application Settings.
